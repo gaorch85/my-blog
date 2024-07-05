@@ -15,7 +15,7 @@
 
 **克隆项目：**
 ```bash
-git clone https://github.com/gaorch85/Project.git
+git clone https://github.com/gaorch85/my-blog.git
 ```
 **拉取最新更改：**
 ```bash
