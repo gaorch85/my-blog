@@ -10,9 +10,6 @@
 - 后端基于 `springboot` + `mybatis plus` + `mysql` 开发
 - 前后端通信遵循 `RESTful` 风格
 
-**在线预览：**
-- [博客](http://1.92.148.127:8888)
-
 **克隆项目：**
 ```bash
 git clone https://github.com/gaorch85/my-blog.git
